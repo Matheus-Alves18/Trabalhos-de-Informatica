@@ -5,3 +5,4 @@ Neste repertório será guardado todos trabalhos correspondentes de INFORMÁTICA
 [gastos.xlsx](https://github.com/Matheus-Alves18/Trabalhos-de-Informatica/files/12384473/gastos.xlsx)
 [Planilha inteligênte EXCEL 21.08.xlsx](https://github.com/Matheus-Alves18/Trabalhos-de-Informatica/files/12403311/Planilha.inteligente.EXCEL.21.08.xlsx)
 [GRAFICO SANDALIAS.xlsx](https://github.com/Matheus-Alves18/Trabalhos-de-Informatica/files/12517112/GRAFICO.SANDALIAS.xlsx)
+[tabela excel 11.09.xlsx](https://github.com/Matheus-Alves18/Trabalhos-de-Informatica/files/12580897/tabela.excel.11.09.xlsx)
